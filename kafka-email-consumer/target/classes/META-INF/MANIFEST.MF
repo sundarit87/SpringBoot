@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: kafka-email-consumer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sundaramoorthi.p
+Implementation-Vendor-Id: org.com.finablr.health
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/kafka-email
+ -consumer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

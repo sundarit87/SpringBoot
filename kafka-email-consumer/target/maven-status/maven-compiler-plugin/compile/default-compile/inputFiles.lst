@@ -1,0 +1,8 @@
+D:\c drive\ACE\MicroService\kafka-email-consumer\src\main\java\org\com\finablr\health\repository\MailRepository.java
+D:\c drive\ACE\MicroService\kafka-email-consumer\src\main\java\org\com\finablr\health\service\EmailService.java
+D:\c drive\ACE\MicroService\kafka-email-consumer\src\main\java\org\com\finablr\health\KafkaEmailConsumerApplication.java
+D:\c drive\ACE\MicroService\kafka-email-consumer\src\main\java\org\com\finablr\health\entity\dto\UserDto.java
+D:\c drive\ACE\MicroService\kafka-email-consumer\src\main\java\org\com\finablr\health\entity\Mail.java
+D:\c drive\ACE\MicroService\kafka-email-consumer\src\main\java\org\com\finablr\health\consumer\Receiver.java
+D:\c drive\ACE\MicroService\kafka-email-consumer\src\main\java\org\com\finablr\health\service\EmailServiceImpl.java
+D:\c drive\ACE\MicroService\kafka-email-consumer\src\main\java\org\com\finablr\health\consumer\ReceiverConfig.java
